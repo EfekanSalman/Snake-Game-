@@ -24,6 +24,6 @@ Compile the code using a C compiler like gcc: gcc -o snake game.c
 
 Run the game: ./snake
 
-You can watch a video demonstration of the development process and gameplay on YouTube: 
+You can watch a video demonstration of the development process and gameplay on YouTube: https://www.youtube.com/watch?v=1wqEgBruDUc
 
 
