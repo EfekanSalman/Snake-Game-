@@ -16,7 +16,7 @@ X: Quit the game
 +: Increase game speed
 -: Decrease game speed
 Installation
-Clone the repository: git clone https://github.com/yourusername/snake-game-c.git
+Clone the repository: git clone [https://github.com/yourusername/snake-game-c.git](https://github.com/EfekanSalman/Snake-Game-)
 
 Navigate to the project directory: cd snake-game-c
 
